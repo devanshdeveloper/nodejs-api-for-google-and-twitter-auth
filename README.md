@@ -41,7 +41,7 @@ NOTE: redirect url should be included in apps settings
 
 example: response
 
-````json
+```json
 {
     "redirectURL": "https://api.twitter.com/oauth/authenticate?oauth_token=PDGDAwAAAAABrWgnAAABjaGgHVQ"
 }
@@ -57,7 +57,7 @@ example body
     "oauth_token": "YSWQGwAAAAABrWgnAAABjaGXMLU",
     "oauth_verifier": "gNvaTp96ACCLQTZAEkSC9O6orhmkjfwA"
 }
-````
+```
 
 example response:
 
