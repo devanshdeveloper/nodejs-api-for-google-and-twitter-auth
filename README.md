@@ -2,7 +2,7 @@
 
 ## GOOGLE API ROUTES
 
-### /auth/google/user_details?credentials=xxx
+### /auth/google/user_details?credentials=
 
 response example :
 
@@ -35,7 +35,7 @@ response example :
 
 ## TWITTER API ROUTES
 
-### /auth/twitter/request_token?redirect=xxx
+### /auth/twitter/request_token?redirect=
 
 NOTE: redirect url should be included in apps settings
 
